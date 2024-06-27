@@ -1,0 +1,7 @@
+1. Image orientation
+  1.a Create a way that a tile can be placed facing down, left or right instead of always up
+1. (on Editor) Improve tile deletion when deleting tiles off_grid
+2. (on Editor) Draw grid outline to see when every possible tile position
+3. (on Game) Improve off_grid tiles rendering, to only render tiles on screen
+4. (On Game) Enemy can jump up or drop down
+5. (On Game)(bug) Enemy can "see" through wall and try to shoot player
